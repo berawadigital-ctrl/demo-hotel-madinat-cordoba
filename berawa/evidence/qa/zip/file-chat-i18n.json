@@ -1,0 +1,449 @@
+{
+ "url": "file:///tmp/zip-hotel-madinat-cordoba/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Cuántas habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 11 habitaciones: 2 dobles que se abren a los patios, 6 dobles superiores (dos de ellas con bañera), 2 dobles deluxe con bañera y la Su"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La habitación está disponible a partir de las 15:00 y puede usarse hasta las 12:00 el día de salida. La recepción está abierta las 24 horas,"
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: hay Wi-Fi gratuito en todo el hotel."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El hotel no tiene parking propio. Recomienda el parking público de la Ribera (Paseo de la Ribera 1), a unos 3 minutos andando; si está compl"
+    },
+    {
+     "q": "¿Aceptan mascotas?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No: el hotel no acepta mascotas, salvo perros guía que acompañan a personas con alguna diversidad funcional."
+    },
+    {
+     "q": "¿Hay habitaciones adaptadas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí: el hotel tiene habitaciones adaptadas a personas con movilidad reducida. Hay que contactar por teléfono o correo para solicitarla tras c"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Tiene salón social y comedor con servicio de desayuno buffet y cocina. Su web no indica si el desayuno está incluido en la tarifa."
+    },
+    {
+     "q": "¿Hay terraza?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Tiene dos terrazas con vistas panorámicas a la Mezquita-Catedral, además de una terraza mirador."
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Está en la calle Cabezas 17, 14003 Córdoba, en pleno casco histórico y la Judería, a unos 350 m de la Mezquita-Catedral, a cinco minutos."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Su web tiene reserva online y atienden por el teléfono 957 395 000 o por correo en info@hotelmadinat.com, además de su formulario de contact"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Teléfono 957 395 000; correo info@hotelmadinat.com."
+    },
+    {
+     "q": "¿Qué historia tiene la casa?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "El hotel conserva la fisonomía de una antigua casa-patio de estilo señorial, cuya estructura y muros ahondan sus raíces en el siglo XVIII; e"
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K14",
+     "ok": true,
+     "respuesta": "Su aviso legal indica como empresa titular del dominio a Madinat S.L., CIF B-23899628."
+    },
+    {
+     "q": "¿Tienen piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 957 395 000 · info@hotelmadinat.com."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 957 395 000 · info@hotelmadinat.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Su web tiene reserva online y atienden por el teléfono 957 395 000 o por correo en info@hotelmadinat.com, además de su formulario de contact"
+    }
+   ],
+   "chips": [
+    "¿Cuántas habitaciones tiene?",
+    "¿Hay parking?",
+    "¿Aceptan mascotas?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "room0_n",
+    "room2_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quantes habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 11 habitacions: 2 dobles que s'obren als patis, 6 dobles superiors (dues amb banyera), 2 dobles deluxe amb banyera i la Suite Junior amb "
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "L'habitació està disponible a partir de les 15:00 i es pot utilitzar fins a les 12:00 el dia de sortida. La recepció està oberta les 24 hore"
+    },
+    {
+     "q": "Hi ha wifi?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: hi ha Wi-Fi gratuït a tot l'hotel."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L'hotel no té pàrquing propi. Recomana el pàrquing públic de la Ribera (Paseo de la Ribera 1), a uns 3 minuts a peu; si està ple, el pàrquin"
+    },
+    {
+     "q": "Accepten mascotes?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No: l'hotel no accepta mascotes, tret de gossos guia que acompanyen persones amb alguna diversitat funcional."
+    },
+    {
+     "q": "Hi ha habitacions adaptades?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí: l'hotel té habitacions adaptades a persones amb mobilitat reduïda. Cal contactar per telèfon o correu per sol·licitar-la després de conf"
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Té saló social i menjador amb servei d'esmorzar bufet i cuina. La seva web no indica si l'esmorzar està inclòs a la tarifa."
+    },
+    {
+     "q": "Hi ha terrassa?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Té dues terrasses amb vistes panoràmiques a la Mesquita-Catedral, a més d'una terrassa mirador."
+    },
+    {
+     "q": "On és l'hotel?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "És al carrer Cabezas 17, 14003 Còrdova, en ple centre històric i la Jueria, a uns 350 m de la Mesquita-Catedral, a cinc minuts."
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "La seva web té reserva en línia i atenen pel telèfon 957 395 000 o per correu a info@hotelmadinat.com, a més del seu formulari de contacte. "
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Telèfon 957 395 000; correu info@hotelmadinat.com."
+    },
+    {
+     "q": "Quina història té la casa?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "L'hotel conserva la fisonomia d'una antiga casa-pati d'estil senyorial, l'estructura i els murs de la qual arrelen al segle XVIII; en un ext"
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K14",
+     "ok": true,
+     "respuesta": "El seu avís legal indica com a empresa titular del domini Madinat S.L., CIF B-23899628."
+    },
+    {
+     "q": "Teniu piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 957 395 000 · info@hotelmadinat.com."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 957 395 000 · info@hotelmadinat.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "La seva web té reserva en línia i atenen pel telèfon 957 395 000 o per correu a info@hotelmadinat.com, a més del seu formulari de contacte. "
+    }
+   ],
+   "chips": [
+    "Quantes habitacions té?",
+    "Hi ha pàrquing?",
+    "Accepten mascotes?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "How many rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 11 rooms: 2 doubles opening onto the patios, 6 superior doubles (two with a bathtub), 2 deluxe doubles with a bathtub and the Junior "
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The room is available from 15:00 and can be used until 12:00 on the day of departure. Reception is open 24 hours, and luggage can be left fr"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes: there is free Wi-Fi throughout the hotel."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "The hotel has no car park of its own. It recommends the Ribera public car park (Paseo de la Ribera 1), about 3 minutes on foot; if it is ful"
+    },
+    {
+     "q": "Are pets accepted?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No: the hotel does not accept pets, except guide dogs accompanying people with a disability."
+    },
+    {
+     "q": "Are there adapted rooms?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes: the hotel has rooms adapted for people with reduced mobility. You need to contact them by phone or email to request one after confirmin"
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "It has a lounge and dining room with buffet breakfast service and a kitchen. Its website does not say whether breakfast is included in the r"
+    },
+    {
+     "q": "Is there a terrace?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "It has two terraces with panoramic views of the Mosque-Cathedral, plus a viewpoint terrace."
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "It is at Calle Cabezas 17, 14003 Córdoba, in the heart of the historic centre and the Jewish Quarter, about 350 m from the Mosque-Cathedral,"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Their website has online booking and they can be reached on 957 395 000 or by email at info@hotelmadinat.com, as well as through their conta"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Phone 957 395 000; email info@hotelmadinat.com."
+    },
+    {
+     "q": "What history does the house have?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "The hotel keeps the look of an old stately patio house whose structure and walls have their roots in the eighteenth century; at one end of t"
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K14",
+     "ok": true,
+     "respuesta": "Their legal notice names Madinat S.L., CIF B-23899628, as the company owning the domain."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 957 395 000 · info@hotelmadinat.com."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 957 395 000 · info@hotelmadinat.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Their website has online booking and they can be reached on 957 395 000 or by email at info@hotelmadinat.com, as well as through their conta"
+    }
+   ],
+   "chips": [
+    "How many rooms does it have?",
+    "Is there parking?",
+    "Are pets accepted?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "Combien de chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 11 chambres : 2 doubles ouvrant sur les patios, 6 doubles supérieures (dont deux avec baignoire), 2 doubles deluxe avec baignoire "
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La chambre est disponible à partir de 15:00 et peut être utilisée jusqu'à 12:00 le jour du départ. La réception est ouverte 24 heures sur 24"
+    },
+    {
+     "q": "Y a-t-il du wifi ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui : il y a du Wi-Fi gratuit dans tout l'hôtel."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "L'hôtel n'a pas de parking propre. Il recommande le parking public de la Ribera (Paseo de la Ribera 1), à environ 3 minutes à pied ; s'il es"
+    },
+    {
+     "q": "Les animaux sont-ils acceptés ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Non : l'hôtel n'accepte pas les animaux, sauf les chiens guides accompagnant des personnes en situation de handicap."
+    },
+    {
+     "q": "Y a-t-il des chambres adaptées ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui : l'hôtel a des chambres adaptées aux personnes à mobilité réduite. Il faut les contacter par téléphone ou e-mail pour en demander une a"
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Il a un salon et une salle à manger avec service de petit-déjeuner buffet et cuisine. Son site n'indique pas si le petit-déjeuner est inclus"
+    },
+    {
+     "q": "Y a-t-il une terrasse ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Il a deux terrasses avec vue panoramique sur la Mosquée-Cathédrale, ainsi qu'une terrasse belvédère."
+    },
+    {
+     "q": "Où est l'hôtel ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Il se trouve calle Cabezas 17, 14003 Cordoue, en plein centre historique et dans la Juiverie, à environ 350 m de la Mosquée-Cathédrale, à ci"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Leur site propose la réservation en ligne et ils répondent au 957 395 000 ou par e-mail à info@hotelmadinat.com, ainsi que via leur formulai"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Téléphone 957 395 000 ; e-mail info@hotelmadinat.com."
+    },
+    {
+     "q": "Quelle histoire a la maison ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "L'hôtel conserve la physionomie d'une ancienne maison-patio de style seigneurial, dont la structure et les murs plongent leurs racines au XV"
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K14",
+     "ok": true,
+     "respuesta": "Leur mention légale désigne Madinat S.L., CIF B-23899628, comme société titulaire du domaine."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 957 395 000 · info@hotelmadinat.com."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 957 395 000 · info@hotelmadinat.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Leur site propose la réservation en ligne et ils répondent au 957 395 000 ou par e-mail à info@hotelmadinat.com, ainsi que via leur formulai"
+    }
+   ],
+   "chips": [
+    "Combien de chambres a-t-il ?",
+    "Y a-t-il un parking ?",
+    "Les animaux sont-ils acceptés ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
