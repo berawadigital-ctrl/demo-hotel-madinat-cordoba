@@ -1,0 +1,46 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelmadinat.com/",
+ "read_at": "2026-10-29T04:49:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelmadinat.com/es/",
+   "sha256": "dab93568c1e4769503efd2e476798980cb8d801a848f189ac0115b27432290f6",
+   "chars": 3957
+  },
+  {
+   "url": "https://www.hotelmadinat.com/es/aviso-legal/",
+   "sha256": "39715ad0bf432c1991cd97ea7ca68d3b9982eb2d656b6bd5637014b36953a9ed",
+   "chars": 11070
+  },
+  {
+   "url": "https://www.hotelmadinat.com/es/faqs/",
+   "sha256": "df574d42e1caafefee0fbae0aabbc0ba7616acdf11ac748add80022aedc3f9ea",
+   "chars": 9673
+  },
+  {
+   "url": "https://www.hotelmadinat.com/es/habitaciones/",
+   "sha256": "b1a491e1d78b9cc61a26dea6a30741fc29e6dd96c700791613e1c87dbafda843",
+   "chars": 3726
+  },
+  {
+   "url": "https://www.hotelmadinat.com/es/nuestro-hotel/",
+   "sha256": "e1d64b4dfc8e2b47d8509f14a21daee92481491f3d60b2ef1618d315322e3bdc",
+   "chars": 4939
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelmadinat.com/en/",
+  "https://www.hotelmadinat.com/es/galeria/",
+  "https://www.hotelmadinat.com/es/habitaciones-dobles-deluxe/",
+  "https://www.hotelmadinat.com/es/habitaciones-dobles-superior/",
+  "https://www.hotelmadinat.com/es/habitaciones-dobles/",
+  "https://www.hotelmadinat.com/es/momentos-de-vida/",
+  "https://www.hotelmadinat.com/es/opiniones/",
+  "https://www.hotelmadinat.com/es/suite/",
+  "https://www.hotelmadinat.com/es/superior-con-banera/",
+  "https://www.hotelmadinat.com/files/img/pix.gif",
+  "https://www.hotelmadinat.com/fr/"
+ ]
+}
