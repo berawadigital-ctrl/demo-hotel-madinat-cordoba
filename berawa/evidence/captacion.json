@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-madinat-cordoba",
+ "maps": {
+  "fecha": "2026-10-29T04:27:05+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hotel Madinat",
+  "nota": 4.8,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/place/Hotel+Madinat/@37.8803757,-4.7767409,17z/data=!4m9!3m8!1s0xd6d20825e4eb1d1:0xd83d703789a145fb!5m2!4m1!1i2!8m2!3d37.8803757!4d-4.7767409!16s%2Fg%2F11c2l1s3x_",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T04:27:05+01:00",
+  "veredicto": "MALA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "MADINAT S.L.",
+  "cif": "B23899628",
+  "fuente": "https://www.hotelmadinat.com/es/aviso-legal/",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Aviso legal de la web: titular del dominio Madinat S.L. (persona jurídica); un solo hotel; no cadena."
+ }
+}
